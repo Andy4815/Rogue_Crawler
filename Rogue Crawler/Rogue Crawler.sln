@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rogue Crawler", "Rogue Crawler\Rogue Crawler.vcxproj", "{1856C038-ED93-4680-9A55-8D4038E2097A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Publish|x64 = Publish|x64
+		Publish|x86 = Publish|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Debug|x64.ActiveCfg = Debug|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Debug|x64.Build.0 = Debug|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Debug|x86.ActiveCfg = Debug|Win32
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Debug|x86.Build.0 = Debug|Win32
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Publish|x64.ActiveCfg = Release|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Publish|x64.Build.0 = Release|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Publish|x86.ActiveCfg = Release|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Publish|x86.Build.0 = Release|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Release|x64.ActiveCfg = Release|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Release|x64.Build.0 = Release|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Release|x86.ActiveCfg = Release|x64
+		{1856C038-ED93-4680-9A55-8D4038E2097A}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADFD9397-F1D7-41C7-9486-944129F7277B}
+	EndGlobalSection
+EndGlobal
